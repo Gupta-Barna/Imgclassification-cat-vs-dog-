@@ -4,7 +4,7 @@ A deep learning based project for classifying images as Cat or Dog using Python,
 The goal of this project is to build an image classification model that can look at an image and determine whether it contains a Cat or a Dog.
 The trained model can also take a new uploaded image and predict its class.
 The project uses a Cat/Dog dataset, without putting all 25,000 images into the repository.
-# datasets : Kaggle
+# Datasets : Kaggle
 # Technologies
 -Python
 -TensorFlow / Keras
